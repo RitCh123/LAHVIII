@@ -1,0 +1,39 @@
+{
+  "name": "react-javascript",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "React TypeScript on Replit, using Vite bundler",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@auth0/auth0-react": "^2.0.1",
+    "@chakra-ui/react": "^2.5.4",
+    "@fontsource/open-sans": "^4.5.14",
+    "@fontsource/raleway": "^4.5.12",
+    "@quillforms/blocks": "^3.0.9",
+    "@quillforms/react-renderer-utils": "^4.7.2",
+    "@quillforms/renderer-core": "^4.7.2",
+    "@wordpress/hooks": "^3.30.0",
+    "appwrite": "^10.2.0",
+    "crypto-js": "^4.1.1",
+    "langchain": "^0.0.44",
+    "react-router-dom": "^6.10.0",
+    "react-scripts": "5.0.1",
+    "tinycolor2": "^1.6.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.27",
+    "@types/react-dom": "^18.0.10",
+    "@vitejs/plugin-react": "^3.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^4.9.5",
+    "vite": "^4.1.1"
+  }
+}
